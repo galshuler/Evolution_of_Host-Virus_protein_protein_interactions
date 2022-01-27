@@ -1,3 +1,7 @@
 # Evolution of Host - Virus protein protein interactions
 
 Evolutionary changes in the host-virus interactome can alter the course of infection, but the biophysical and regulatory constraints that shape interface evolution remain largely unexplored. Here, we focus on viral mimicry of short host-like peptide motifs that allow binding to host domains and modulation of cellular pathways. We observe that motifs from unrelated viruses preferentially target conserved, widely expressed and highly connected host proteins, enriched with regulatory and essential functions. The interface residues within these host domains are more conserved and bind a larger number of cellular proteins than similar motif-binding domains that are not known to interact with viruses. In stark contrast, rapidly evolving viral-binding human proteins form few interactions with other cellular proteins, display high tissue specificity and their interface residues have few inter-residue contacts. Our results distinguish between highly conserved and rapidly evolving host-virus interfaces, and show how regulatory, functional and biophysical factors limit host capacity to evolve, allowing for efficient viral subversion of host machineries. 
+
+Within-human protein-protein interaction analysis
+
+We obtained the curated list of physical interactions between human proteins from the STRING database69 (version 11.0). For each gene, we used the interactions for its longest protein isoform, and filtered all other isoforms. 
