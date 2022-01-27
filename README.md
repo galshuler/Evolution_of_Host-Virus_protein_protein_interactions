@@ -10,7 +10,7 @@ Evolutionary changes in the host-virus interactome can alter the course of infec
 - table 3 - GOrilla Viral-binding PRDs vs Viral-binding non-PRDs.
 - table 4 - gProfiler Viral-binding non-PRDs positively selected genes.
 
-## Commands Line
+## Command Lines
 
 - List of command lines for various stages of the protein evolutionary rate analysis.
 
