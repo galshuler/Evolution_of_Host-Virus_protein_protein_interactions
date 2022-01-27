@@ -14,7 +14,7 @@ Evolutionary changes in the host-virus interactome can alter the course of infec
 
 - List of command lines for various stages of the protein evolutionary rate analysis.
 
-## Materials dataset
+## Material datasets
 
 - Concatenate MSA_amino_acid_Rate4site.rar
 - Evolutionary_rates-Rate4site.rar
