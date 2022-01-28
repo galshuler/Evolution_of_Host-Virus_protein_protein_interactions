@@ -21,5 +21,5 @@ Evolutionary changes in the host-virus interactome can alter the course of infec
 - Evolutionary_rates-dN_dS.rar
 - Genes_evolutionary_analysis.tsv
 - MSA_CDS_Prank_mask_guidance-dN_dS.rar
-- MSA_amino_acid_MAFFT_-Rate4site.rar
+- MSA_amino_acid_MAFFT-Rate4site.rar
 - Newick tree format - Concatenate MSA - Rate4site
