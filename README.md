@@ -7,9 +7,12 @@ The interactions between host and viral proteins can determine the outcome of vi
 ## Supplementary tables
 
 - table 1 - Dataset assembly and protein classification.
-- table 2 - GOrilla Viral-binding PRDs vs PRDs.
-- table 3 - GOrilla Viral-binding PRDs vs Viral-binding non-PRDs.
-- table 4 - gProfiler Viral-binding non-PRDs positively selected genes.
+- table 2 - Occurrence of PRDs in different species.
+- table 3 - Orthologs assembly.
+- table 4 - GOrilla Viral-binding PRDs vs PRDs.
+- table 5 - GOrilla Viral-binding PRDs vs Viral-binding non-PRDs.
+- table 6 - gProfiler Viral-binding non-PRDs positively selected genes.
+- table 7 - Host receptores dataset.
 
 ## Command Lines
 
