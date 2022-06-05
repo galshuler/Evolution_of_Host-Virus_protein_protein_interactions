@@ -5,15 +5,19 @@ The interactions between host and viral proteins can determine the outcome of vi
 
 </p>
 
+## Main table
+
+- Table 1 - Positively selected viral-binding human proteins partitioned to two separate functional classes.
+
 ## Supplementary tables
 
-- table 1 - Dataset assembly and protein classification.
-- table 2 - Occurrence of PRDs in different species.
-- table 3 - Ortholog assembly.
-- table 4 - GOrilla enrichment of Viral-binding PRDs vs PRDs.
-- table 5 - GOrilla enrichment of Viral-binding PRDs vs Viral-binding non-PRDs.
-- table 6 - gProfiler enrichment of Viral-binding non-PRDs positively selected genes.
-- table 7 - Host receptor dataset.
+- Table 1 - Dataset assembly and protein classification.
+- Table 2 - Occurrence of PRDs in different species.
+- Table 3 - Ortholog assembly.
+- Table 4 - GOrilla enrichment of Viral-binding PRDs vs PRDs.
+- Table 5 - GOrilla enrichment of Viral-binding PRDs vs Viral-binding non-PRDs.
+- Table 6 - gProfiler enrichment of Viral-binding non-PRDs positively selected genes.
+- Table 7 - Host receptor dataset.
 
 ## Command Lines
 
