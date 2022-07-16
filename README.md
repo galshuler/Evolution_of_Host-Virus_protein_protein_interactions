@@ -7,7 +7,7 @@ The interactions between host and viral proteins can determine the outcome of vi
 
 ## Main table
 
-- Table 1 - Positively selected viral-binding human proteins partitioned to two separate functional classes.
+- Table 1 - Positively selected viral-binding human proteins partitioned to two separate functional classes
 
 ## Supplementary tables
 
