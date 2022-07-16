@@ -11,7 +11,7 @@ The interactions between host and viral proteins can determine the outcome of vi
 
 ## Supplementary tables
 
-- Table 1 - Dataset assembly and protein classification.
+- Table 1 - Dataset assembly and protein classification
 - Table 2 - Data structure and assembly
   - A - Occurrence of PRDs in different species
   - B - Ortholog assembly
