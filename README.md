@@ -12,12 +12,14 @@ The interactions between host and viral proteins can determine the outcome of vi
 ## Supplementary tables
 
 - Table 1 - Dataset assembly and protein classification.
-- Table 2 - Occurrence of PRDs in different species.
-- Table 3 - Ortholog assembly.
-- Table 4 - GOrilla enrichment of Viral-binding PRDs vs PRDs.
-- Table 5 - GOrilla enrichment of Viral-binding PRDs vs Viral-binding non-PRDs.
-- Table 6 - gProfiler enrichment of Viral-binding non-PRDs positively selected genes.
-- Table 7 - Host receptor dataset.
+- Table 2 - Data structure and assembly
+  - A - Occurrence of PRDs in different species
+  - B - Ortholog assembly
+- Table 3 - GO term enrichment analysis.
+  - A - GOrilla enrichment of Viral-binding PRDs vs PRDs
+  - B - GOrilla enrichment of Viral-binding PRDs vs Viral-binding non-PRDs
+  - C - gProfiler enrichment of Viral-binding non-PRDs positively selected genes 
+- Table 4 - Host receptor dataset
 
 ## Command Lines
 
