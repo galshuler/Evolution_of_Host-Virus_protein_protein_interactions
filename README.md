@@ -11,19 +11,19 @@ The interactions between host and viral proteins can determine the outcome of vi
 
 ## Supplementary tables
 
-- Table 1 - Dataset assembly and protein classification
-- Table 2 - Data structure and assembly
+- Table S1 - Dataset assembly and protein classification
+- Table S2 - Data structure and assembly
   - A - Occurrence of PRDs in different species
   - B - Ortholog assembly
-- Table 3 - GO term enrichment analysis.
+- Table S3 - GO term enrichment analysis.
   - A - GOrilla enrichment of Viral-binding PRDs vs PRDs
   - B - GOrilla enrichment of Viral-binding PRDs vs Viral-binding non-PRDs
   - C - gProfiler enrichment of Viral-binding non-PRDs positively selected genes 
-- Table 4 - Host receptor dataset
+- Table S4 - Host receptor dataset
 
 ## Command Lines
 
-- List of command lines for various stages of the protein evolutionary rate analysis.
+- List of command lines for various stages of the protein evolutionary rate analysis
 
 ## Material datasets
 
