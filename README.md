@@ -34,3 +34,7 @@ The interactions between host and viral proteins can determine the outcome of vi
 - MSA_CDS_Prank_mask_guidance-dN_dS.rar
 - MSA_amino_acid_MAFFT-Rate4site.rar
 - Newick tree format - Concatenated MSA - Rate4site
+
+## Publication
+- Shuler, Gal, and Tzachi Hagai. "Rapidly evolving viral motifs mostly target biophysically constrained binding pockets of host proteins." Cell Reports 40.7 (2022): 111212.
+- https://doi.org/10.1016/j.celrep.2022.111212
